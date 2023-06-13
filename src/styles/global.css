@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/font/Inter-Regular.woff2") format("woff2"),
+         url("/font/Inter-Regular.woff") format("woff");
+  }
+@layer base {
+    body {
+        @apply bg-neutral-900 text-neutral-100 font-inter
+    }
+}

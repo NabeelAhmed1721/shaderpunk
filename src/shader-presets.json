@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Hello World",
+        "url": "/shader/hello-world.glsl",
+        "thumbnail": "/image/shaderthumbnail/hello-world.webp"
+    },
+    {
+        "name": "Ordered Dithering",
+        "url": "/shader/ordered-dithering.glsl",
+        "thumbnail": "/image/shaderthumbnail/ordered-dithering.webp"
+    },
+    {
+        "name": "Threshold",
+        "url": "/shader/threshold.glsl",
+        "thumbnail": "/image/shaderthumbnail/threshold.webp"
+    },
+    {
+        "name": "Spy Cam",
+        "url": "/shader/spycam.glsl",
+        "thumbnail": "/image/shaderthumbnail/spycam.webp"
+    },
+    {
+        "name": "Night Vision",
+        "url": "/shader/nightvision.glsl",
+        "thumbnail": "/image/shaderthumbnail/nightvision.webp"
+    },
+    {
+        "name": "CRT",
+        "url": "/shader/crt.glsl",
+        "thumbnail": "/image/shaderthumbnail/crt.webp"
+    },
+    {
+        "name": "Chromatic Aberration",
+        "url": "/shader/chromatic-aberration.glsl",
+        "thumbnail": "/image/shaderthumbnail/chromatic-aberration.webp"
+    }
+]
